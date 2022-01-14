@@ -154,7 +154,7 @@ h5 {
   margin: 1% 0 3%;
 }
 
-.release-date{
+.release-date {
   font-weight: 200;
   font-size: 0.8rem;
   line-height: 0.5;
@@ -204,15 +204,24 @@ h5 {
   .resume-img {
     display: none;
   }
+
   .contact-img {
     width: 70%;
-    padding-top: 5%;
+    padding-top: 15%;
   }
+
   .header-title {
-    font-size: 4rem;
+    font-size: 3rem;
   }
+
   .header-paragraph {
     font-size: 1.5rem;
+  }
+
+  .release-date {
+    font-size: 0.5rem;
+    line-height: 0.5;
+    margin-top: -1rem;
   }
 }
 
