@@ -204,6 +204,16 @@ h5 {
   .resume-img {
     display: none;
   }
+  .contact-img {
+    width: 70%;
+    padding-top: 5%;
+  }
+  .header-title {
+    font-size: 4rem;
+  }
+  .header-paragraph {
+    font-size: 1.5rem;
+  }
 }
 
 /* Animations */
